@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... software develop Java/Spring Delphi Bootstrap
 - 🌱 I’m currently learning ... some ERP MES software
 - 💞️ I’m looking to collaborate on ... any company who needs custom software
-- 📫 How to reach me ... scarfagna@data-ware.it +39 0773 512001 Data Ware srl
+- 📫 How to reach me ... scarfagna@data-ware.it +39 0773 512001 Data Ware srl - Sabaudia LT - Italy
 
 <!---
 scarfagna/scarfagna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
